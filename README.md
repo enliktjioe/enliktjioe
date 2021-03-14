@@ -16,7 +16,7 @@
 
 - 🎓 Studying MSc in Software Engineering at the [University of Tartu, Estonia](https://www.ut.ee/en)
 - 🌱 Doing my Master's thesis ["Requirement Engineering for Self-Driving Car"](https://github.com/enliktjioe/master-thesis-2021)
-- 🔭 Host of [Enlik Tjioe Podcast](https://bit.ly/enliktjioepodcast) and [PPI Estonia Podcast](https://anchor.fm/ppiestonia)
+- 🔭 Host of [Enlik Tjioe Podcast](https://anchor.fm/enlik) and [PPI Estonia Podcast](https://anchor.fm/ppiestonia)
 - 📖 Writing in [Medium](https://enliktjioe.medium.com/)
 - 🏸 Loves playing Badminton, currently join [Badminton sport club in the University of Tartu](https://sport.ut.ee/harrastussport/hs_spordialad/hs_sulgpall/)
 - 📫 Reach me: LinkedIn [Enlik Tjioe](https://www.linkedin.com/in/enlik/) or Twitter [@enlik](https://twitter.com/enlik)
