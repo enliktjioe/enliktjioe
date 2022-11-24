@@ -14,8 +14,8 @@
 
 ### Hi, my name is Enlik Tjioe 👋
 
-- 🎓 Studying MSc in Software Engineering at the [University of Tartu, Estonia](https://www.ut.ee/en)
-- 🌱 Doing my Master's thesis ["Requirement Engineering for Self-Driving Car"](https://github.com/enliktjioe/master-thesis-2021)
+- 🎓 Studying Software Development at the [kood/Jõhvi](https://kood.tech/)
+- 🌱 Finished my study at the[ University of Tartu](https://ut.ee/en) with thesis ["Topic Modeling for Requirements Engineering: An Analysis of Ridesharing App Reviews"](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=75318&year=2022)
 - 🔭 Host of [Enlik Tjioe Podcast](https://anchor.fm/enlik) and [PPI Estonia Podcast](https://anchor.fm/ppiestonia)
 - 📖 Writing in [Medium](https://enliktjioe.medium.com/)
 - 🏸 Loves playing Badminton, currently join [Badminton sport club in the University of Tartu](https://sport.ut.ee/harrastussport/hs_spordialad/hs_sulgpall/)
