@@ -14,10 +14,10 @@
 
 ### Hi, my name is Enlik Tjioe 👋
 
-- 🎓 Studying Software Development at the [kood/Jõhvi](https://kood.tech/)
+- 🎓 Studying [DeFi](https://web3-talents.io/defi-talents) via [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/home/research/centres/blockchain) - _Empowering Talent for Leadership in the Decentralized Finance Space_
 - 🌱 Finished my study at the[ University of Tartu](https://ut.ee/en) with thesis ["Topic Modeling for Requirements Engineering: An Analysis of Ridesharing App Reviews"](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=75318&year=2022)
 - 🔭 Host of [Enlik Tjioe Podcast](https://anchor.fm/enlik) and [PPI Estonia Podcast](https://anchor.fm/ppiestonia)
 - 📖 Writing in [Medium](https://enliktjioe.medium.com/)
-- 🏸 Loves playing Badminton, currently join [Badminton sport club in the University of Tartu](https://sport.ut.ee/harrastussport/hs_spordialad/hs_sulgpall/)
-- 📫 Reach me: LinkedIn [Enlik Tjioe](https://www.linkedin.com/in/enlik/) or Twitter [@enlik](https://twitter.com/enlik)
+- 🏸 Loves playing Badminton
+- 📫 Reach me: Homepage [enlik.tech](https://enlik.tech/) or LinkedIn [Enlik Tjioe](https://www.linkedin.com/in/enlik/) or Twitter [@enlik](https://twitter.com/enlik)
 - ⚡ Fun fact: I worked for Google Sydney and Google Melbourne during my [working holiday in Australia](https://enliktjioe.wordpress.com/2017/05/26/my-google-story/)
