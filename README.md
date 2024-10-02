@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Hi, my name is Enlik Tjioe 👋
+### Hi, my name is Enlik Lee 👋
 
 - 🎓 Studying [DeFi](https://web3-talents.io/defi-talents) via [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/home/research/centres/blockchain) - _Empowering Talent for Leadership in the Decentralized Finance Space_
 - 🌱 Finished my study at the[ University of Tartu](https://ut.ee/en) with thesis ["Topic Modeling for Requirements Engineering: An Analysis of Ridesharing App Reviews"](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=75318&year=2022)
